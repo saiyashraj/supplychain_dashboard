@@ -43,7 +43,7 @@ Feel free to fork this repository and submit pull requests with enhancements or 
 This project is licensed under the **MIT License**.
 
 ---
-**Author:** Your Name  
+**Author:** Sai raj S H 
 📧 Contact: [saiyashraj0512@gmail.com](mailto:saiyashraj0512@gmail.com)  
 📌 LinkedIn: [saiyashraj]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/saiyashraj/))
 

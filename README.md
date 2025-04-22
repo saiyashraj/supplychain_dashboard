@@ -28,13 +28,13 @@ This repository contains a **Supply Chain Dashboard** built using **Tableau**. T
 
 ## 🛠️ How to Use
 1. Open the Tableau workbook (`.twb` or `.twbx`).
-2. Connect it to your dataset (if required).
+2. Connect it to your dataset 
 3. Explore interactive visualizations and apply filters.
 4. Export reports as needed.
 
 ## 🚀 Technologies Used
 - **Tableau** – For data visualization
-- **SQL & Excel** – For data preprocessing (if applicable)
+- **SQL & Excel** – For data preprocessing 
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests with enhancements or bug fixes!
